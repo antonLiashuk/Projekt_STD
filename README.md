@@ -1,2 +1,4 @@
 # Projekt_STD
-drugi projekt
+<br>
+<strong> Anton Liashuk, Darya Yeusihneyeva, Palina Yeusihneyeva </strong>
+<br>
